@@ -49,7 +49,7 @@
         </ul>
         <ul class="nav navbar-nav navbar-primary">
           <li class="active">
-            <a href="demo.html" class="active">Basic</a>
+            <a href="image.php" class="active">Basic</a>
           </li>
         </ul>
       </div>
